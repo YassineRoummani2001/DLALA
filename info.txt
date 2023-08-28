@@ -1,0 +1,12 @@
+//email & password =>Admin ---------------------------------------------
+Admin = [
+    email: yassinerou221@email.com ,
+    password: yassine1234,
+]
+
+
+//email & password =>User -----------------------------------------------
+User = [
+    email : yassine@email.com
+    password : yassine1234,
+]
